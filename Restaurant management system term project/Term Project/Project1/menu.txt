@@ -1,0 +1,29 @@
+1 Fried green tomatoes $12
+1 Fried potato chips $10
+1 Chicken pot stickers $13
+1 Mashed potatoes $10
+2 Salmon $241
+2 Burger $20
+2 Cheese burger $21
+2 Salmon sandwich $14
+2 Grilled chicken sandwich $12
+2 Chicken Sandwich with Ranch Sauce $12
+2 Fresh Vegetable Plate $15
+2 Turkey Burger $18
+2 Lamb Sandwich $14
+2 Steak $22
+2 Veggie Burger $19
+2 Shrimp $25
+2 Creamy Risotto $24
+3 English Breakfast Tea $5
+3 Coffee with Milk $6
+3 Espresso $5
+3 Cappuccino $6
+3 Water(500ml) $1
+3 Freshly Brewed Coffee $5
+4 Latte Cake $12
+4 Red Velvet Cake $12
+4 Cheesecake $12
+4 Cream Brulee $12
+4 Ice Cream $4
+4 Chocolate Cake $12
